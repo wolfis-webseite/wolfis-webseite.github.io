@@ -1,0 +1,46 @@
+﻿@charset "utf-8";
+html,
+body {
+ background-color: #ce78bb;
+}
+
+body {
+  max-width:60em;
+  margin: 1em auto;
+}
+
+#backlink img {
+  width: 4em;
+}
+
+
+h1 {
+	background-color: #5df70f;
+	color: #020304;
+	padding: 0.5em;
+	font-family: sans-serif;
+	border-radius: 0 1em 1em 1em;
+}
+
+h2 {
+	font-size: 2.6em;
+	color: #253080;
+	background-color: #00d4de;
+	border: thin solid;
+	font-family: cursive;
+	text-align: center;
+}
+
+p, 
+ul, ol,
+table {
+  font-size: 1.3em; 
+  text-align: justify; 
+  font-family: sans-serif; 
+  color: #253080;
+}
+
+ul ul {
+	font-size: 1em;
+}
+
